@@ -1,0 +1,50 @@
+body{
+    width: 1200px;
+    margin: 0 auto;
+    background: #FDFCFC;
+}
+
+.content{
+    display: flex;
+    border: 1px;
+    justify-content: space-around
+}
+
+.key_aspects{
+    width: 600px;
+    font-family: cursive;
+}
+h1{
+    font-size: 40px;
+    color: darkblue;
+    text-align: center;
+}
+
+.container{
+    margin-top: 30px;
+}
+
+.common_materials {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.common_materials a{
+    display: block;
+    margin-left: 30px;
+}
+
+.common_materials div{
+    font-size: 30px;
+    color: darkblue;
+    
+}
+
+h2{
+    font-size: 30px;
+    color: darkblue;
+    margin-left: 20px;
+}
+
+.left_margin{
+    margin-left: 40px;
+}
